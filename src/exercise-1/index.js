@@ -1,4 +1,4 @@
-const missingNumber = (arr) => {
-  return -1;
+const removeDuplicates = (arr) => {
+  return [];
 };
-module.exports = missingNumber;
+module.exports = removeDuplicates;
